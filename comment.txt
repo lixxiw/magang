@@ -1,0 +1,21 @@
+<div class='comment'>
+            <strong>firly</strong><br>
+            <small>2025/08/12 | 08:07</small>
+            <p>jahitn nya bagus</p>
+        </div>
+<div class='comment'>
+            <strong>sigma</strong><br>
+            <small>2025/08/11 | 15:29</small>
+            <p>mewing</p>
+        </div>
+<div class='comment'>
+            <strong>arkan</strong><br>
+            <small>2025/08/07 | 15:51</small>
+            <p>sigma</p>
+        </div>
+<div class='comment'>
+            <strong>dilon sigma</strong><br>
+            <small>2025/08/04 | 09:51</small>
+            <p>jahitan nya mewing dan bagus
+</p>
+        </div>
